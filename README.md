@@ -8,7 +8,6 @@ This is a User-friendly Arithmetic Calculator this web application provides a sl
 ## Features
 
 - **Intuitive Interface**: Enjoy a user-friendly design that makes calculations a breeze.
-- **Responsive Layout**: Works seamlessly across devices, ensuring a consistent experience.
 - **Error Handling**: Incorporates error handling to prevent unexpected issues during calculations.
 - **Customization**: Easily customize the calculator's appearance and functionality to suit your needs.
 
@@ -28,7 +27,6 @@ This is a User-friendly Arithmetic Calculator this web application provides a sl
 
 Contributions are welcome! If you have ideas for improvements or new features, feel free to fork the repository and submit pull requests.
 
-## Knowledge Gained
 
 
 
