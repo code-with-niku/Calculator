@@ -19,8 +19,8 @@
         .calci {
             background-color: #4d4f53;
             /* background-color: #e3f9ff; */
-            height: 85%;
-            width: 90%;
+            height: 600px;
+            width: 400px;
             display: flex;
             align-items: center;
             justify-content: space-evenly;
